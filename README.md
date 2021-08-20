@@ -4,7 +4,7 @@ Generate a custom CUI dictionary for a Phenotype
 ## Requirements:
 Python3, Pandas library, 2019AB UMLS Global dictionary
 
-## Test Case
+## Test case
 ### `python create_custom_dict.py cui_list.txt remove_terms_list.txt 3`
 
 cui_list.txt  - contains list of original CUIs selected for creating the custom dictionary. One CUI per line
