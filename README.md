@@ -2,7 +2,7 @@
 Generate a custom CUI dictionary for a Phenotype
 
 ## Requirements:
-Python3, Pandas library
+Python3, Pandas library, 2019 UMLS Global dictionary
 
 ## Test Case
 ### `python create_custom_dict.py cui_list.txt remove_terms_list.txt 3`
